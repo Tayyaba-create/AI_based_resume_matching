@@ -35,8 +35,8 @@ This is a web-based Resume and Job Description (JD) matching application built u
 
 ## ⚙️ Installation & Run
 #### 1. Clone the repo
-- git clone https://github.com/yourusername/resume-matcher-fastapi.git
-- cd resume-matcher-fastapi
+- git clone https://github.com/yourusername/resume-matcher-fastapi.git](https://github.com/Tayyaba-create/AI_based_resume_matching.git
+- cd AI_based_resume_matching
   
 #### 2. Create virtual environment (optional but recommended)
 - python -m venv venv (For Windows)
