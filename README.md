@@ -1,4 +1,4 @@
-# 🧠 Resume Matcher with FastAPI
+# 🧠 MatchAI – Smart Resume & Job Matcher
 This is a web-based Resume and Job Description (JD) matching application built using FastAPI. It extracts skills from uploaded resumes and job descriptions using spaCy NLP, compares them, and returns a matching score based on overlapping skills.
 
 ## 🚀 Features
